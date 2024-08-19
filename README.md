@@ -9,7 +9,7 @@
 |[HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification](https://aclanthology.org/2020.findings-emnlp.309.pdf)|Dataset|Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, Mohit Bansal|2020|
 |[COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic](https://aclanthology.org/2021.acl-long.165.pdf)|Dataset|Arkadiy Saakyan, Tuhin Chakrabarty, Smaranda Muresan|2021|
 |[FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information](https://arxiv.org/pdf/2106.05707)|Dataset|Aly et al.|2021|
-|[Fool Me Twice: Entailment from Wikipedia Gamification](https://aclanthology.org/2021.naacl-main.32.pdf)|Dataset|Julian Eisenschlos, Bhuwan Dhingra, Jannis Bulian, Benjamin B�rschinger, Jordan Boyd-Graber|2021|
+|[Fool Me Twice: Entailment from Wikipedia Gamification](https://aclanthology.org/2021.naacl-main.32.pdf)|Dataset|Julian Eisenschlos, Bhuwan Dhingra, Jannis Bulian, Benjamin Börschinger, Jordan Boyd-Graber|2021|
 |[Baleen: Robust Multi-Hop Reasoning at Scale via Condensed Retrieval](https://proceedings.neurips.cc/paper_files/paper/2021/file/e8b1cbd05f6e6a358a81dee52493dd06-Paper.pdf)|Framework|Omar Khattab, Christopher Potts, Matei Zaharia|2021|
 |[Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence](https://aclanthology.org/2021.naacl-main.52.pdf)|Dataset|Tal Schuster, Adam Fisch, Regina Barzilay|2021|
 |[Scientific Claim Verification with VERT5ERINI](https://aclanthology.org/2021.louhi-1.11.pdf)|Framework|Ronak Pradeep, Xueguang Ma, Rodrigo Nogueira, Jimmy Lin|2021|
