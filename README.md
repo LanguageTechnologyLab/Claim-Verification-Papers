@@ -1,6 +1,6 @@
 |Title|Type|Authors|Year|
 |-----|-----|-----|-----|
-|[�Liar, Liar Pants on Fire�: A New Benchmark Dataset for Fake News Detection](https://aclanthology.org/P17-2067.pdf)|Dataset|William Yang Wang|2017|
+|["Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection](https://aclanthology.org/P17-2067.pdf)|Dataset|William Yang Wang|2017|
 |[FEVER: a large-scale dataset for Fact Extraction and VERification](https://aclanthology.org/N18-1074.pdf)|Dataset|James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal|2018|
 |[MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://aclanthology.org/D19-1475.pdf)|Dataset|Augenstein et al.|2019|
 |[Fact or Fiction: Verifying Scientific Claims](https://aclanthology.org/2020.emnlp-main.609.pdf)|Dataset|Wadden et al.|2020|
