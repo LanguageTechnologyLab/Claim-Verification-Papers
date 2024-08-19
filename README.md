@@ -1,6 +1,6 @@
 |Title|Type|Authors|Year|
 |-----|-----|-----|-----|
-|[“Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection](https://aclanthology.org/P17-2067.pdf)|Dataset|William Yang Wang|2017|
+|[ï¿½Liar, Liar Pants on Fireï¿½: A New Benchmark Dataset for Fake News Detection](https://aclanthology.org/P17-2067.pdf)|Dataset|William Yang Wang|2017|
 |[FEVER: a large-scale dataset for Fact Extraction and VERification](https://aclanthology.org/N18-1074.pdf)|Dataset|James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal|2018|
 |[MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://aclanthology.org/D19-1475.pdf)|Dataset|Augenstein et al.|2019|
 |[Fact or Fiction: Verifying Scientific Claims](https://aclanthology.org/2020.emnlp-main.609.pdf)|Dataset|Wadden et al.|2020|
@@ -9,7 +9,7 @@
 |[HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification](https://aclanthology.org/2020.findings-emnlp.309.pdf)|Dataset|Yichen Jiang, Shikha Bordia, Zheng Zhong, Charles Dognin, Maneesh Singh, Mohit Bansal|2020|
 |[COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic](https://aclanthology.org/2021.acl-long.165.pdf)|Dataset|Arkadiy Saakyan, Tuhin Chakrabarty, Smaranda Muresan|2021|
 |[FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information](https://arxiv.org/pdf/2106.05707)|Dataset|Aly et al.|2021|
-|[Fool Me Twice: Entailment from Wikipedia Gamification](https://aclanthology.org/2021.naacl-main.32.pdf)|Dataset|Julian Eisenschlos, Bhuwan Dhingra, Jannis Bulian, Benjamin Börschinger, Jordan Boyd-Graber|2021|
+|[Fool Me Twice: Entailment from Wikipedia Gamification](https://aclanthology.org/2021.naacl-main.32.pdf)|Dataset|Julian Eisenschlos, Bhuwan Dhingra, Jannis Bulian, Benjamin Bï¿½rschinger, Jordan Boyd-Graber|2021|
 |[Baleen: Robust Multi-Hop Reasoning at Scale via Condensed Retrieval](https://proceedings.neurips.cc/paper_files/paper/2021/file/e8b1cbd05f6e6a358a81dee52493dd06-Paper.pdf)|Framework|Omar Khattab, Christopher Potts, Matei Zaharia|2021|
 |[Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence](https://aclanthology.org/2021.naacl-main.52.pdf)|Dataset|Tal Schuster, Adam Fisch, Regina Barzilay|2021|
 |[Scientific Claim Verification with VERT5ERINI](https://aclanthology.org/2021.louhi-1.11.pdf)|Framework|Ronak Pradeep, Xueguang Ma, Rodrigo Nogueira, Jimmy Lin|2021|
@@ -28,7 +28,7 @@
 |[Fact-Checking Complex Claims with Program-Guided Reasoning](https://aclanthology.org/2023.acl-long.386.pdf)|Framework|Pan et al.|2023|
 |[Complex Claim Verification with Evidence Retrieved in the Wild](https://aclanthology.org/2024.naacl-long.196.pdf)|Framework|Jifan Chen, Grace Kim, Aniruddh Sriram, Greg Durrett, Eunsol Choi|2023|
 |[Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy](https://aclanthology.org/2023.findings-emnlp.620.pdf)|Framework/Model|Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen|2023|
-|[FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation](https://dl.acm.org/doi/pdf/10.1145/3539618.3591687)|Framework|Sebastian Hofstätter, Jiecao Chen, Karthik Raman, Hamed Zamani|2023|
+|[FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation](https://dl.acm.org/doi/pdf/10.1145/3539618.3591687)|Framework|Sebastian Hofstï¿½tter, Jiecao Chen, Karthik Raman, Hamed Zamani|2023|
 |[Trusted Source Alignment in Large Language Models](https://arxiv.org/pdf/2311.06697)|Dataset/Evaluation|Bashlovkina et al.|2023|
 |[Towards LLM-based Fact Verification on News Claims with a Hierarchical Step-by-Step Prompting Method](https://aclanthology.org/2023.ijcnlp-main.64.pdf)|Framework|Xuan Zhang, Wei Gao|2023|
 |[Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models](https://aclanthology.org/2023.findings-emnlp.416.pdf)|Framework|Haoran Wang, Kai Shu|2023|
@@ -37,7 +37,7 @@
 |[React: Synergizing reasoning and acting in language models](https://openreview.net/pdf?id=WE_vluYUL-X)|Model|Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao|2023|
 |[Prompt to be Consistent is Better than Self-Consistent? Few-Shot and Zero-Shot Fact Verification with Pre-trained Language Models](https://aclanthology.org/2023.findings-acl.278.pdf)|Framework|Fengzhu Zeng, Wei Gao|2023|
 |[A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning](https://dl.acm.org/doi/pdf/10.1145/3539618.3591631)|Framework|Chen et al.|2023|
-|[Give Me More Details: Improving Fact-Checking with Latent Retrieval](https://arxiv.org/pdf/2305.16128)|Framework|Xuming Hu, Junzhe Chen, Zhijiang Guo, Philip S. Yu|2023|
+|[Give Me More Details: Improving Fact-Checking with Latent Retrieval](https://arxiv.org/pdf/2305.16128)|Framework|Xuming Hu, Junzhe Chen, Zhijiang Guo, Philip S. Yu|2023|
 |[Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://www.jmlr.org/papers/volume24/23-0037/23-0037.pdf)|Framework|Izacard et al.|2023|
 |[OverPrompt: Enhancing Chat{GPT} through Efficient In-Context Learning](https://arxiv.org/pdf/2305.14973)|Framework|Jiazheng Li, Runcong Zhao, Yongxin Yang, Yulan He, Lin Gui|2023|
 |[WiCE: Real-World Entailment for Claims in Wikipedia](https://aclanthology.org/2023.emnlp-main.470.pdf)|Dataset|Ryo Kamoi, Tanya Goyal, Juan Diego Rodriguez, Greg Durrett|2023|
@@ -46,7 +46,7 @@
 |[AVERITEC: A Dataset for Real-world Claim Verification with Evidence from the Web](https://proceedings.neurips.cc/paper_files/paper/2023/file/cd86a30526cd1aff61d6f89f107634e4-Paper-Datasets_and_Benchmarks.pdf)|Dataset|Michael Schlichtkrull, Zhijiang Guo, Andreas Vlachos|2023|
 |[Check-COVID: Fact-Checking COVID-19 News Claims with Scientific Evidence](https://aclanthology.org/2023.findings-acl.888.pdf)|Dataset|Gengyu Wang, Kate Harwood, Lawrence Chillrud, Amith Ananthram, Melanie Subbia, Kathleen McKeown|2023|
 |[SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables](https://aclanthology.org/2023.emnlp-main.483.pdf)|Dataset|Xinyuan Lu, Liangming Pan, Qian Liu, Preslav Nakov, Min-Yen Kan|2023|
-|[Training Language Models to Generate Text with Citations via Fine-grained Rewards](https://arxiv.org/pdf/2402.04315)|Framework|Chengyu Huang, Zeqiu Wu, Yushi Hu, Wenya Wang|2024|
+|[Training Language Models to Generate Text with Citations via Fine-grained Rewards](https://arxiv.org/pdf/2402.04315)|Framework|Chengyu Huang, Zeqiu Wu, Yushi Hu, Wenya Wang|2024|
 |[AFaCTA: Assisting the Annotation of Factual Claim Detection with Reliable LLM Annotators](https://arxiv.org/pdf/2402.11073)|Framework|Ni et al.|2024|
 |[The perils and promises of fact-checking with large language models](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1341697/full?field&journalName=Frontiers_in_Artificial_Intelligence&id=1341697)|Framework|Dorian  Quelle, Alexandre Bovet|2024|
 |[PACAR: Automated Fact-Checking with Planning and Customized Action Reasoning using Large Language Models](https://aclanthology.org/2024.lrec-main.1099.pdf)|Framework|Xiaoyan Zhao, Lingzhi Wang, Zhanghao Wang, Hong Cheng, Rui Zhang, Kam-Fai Wong|2024|
